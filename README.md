@@ -1,3 +1,4 @@
+## Margianto Ramadhani
 - 👋 Hi, I’m @margiantoramadhani
 - 👀 I’m interested in Data Analyst for switching career from Mechanical Engineering
 - 🌱 I’m currently learning Data Analyst on DQLab and RevoU
