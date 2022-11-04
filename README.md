@@ -1,6 +1,5 @@
-## Margianto Ramadhani
-- 👋 Hi, I’m @margiantoramadhani
-- 👀 I’m interested in Data Analyst for switching career from Mechanical Engineering
-- 🌱 I’m currently learning Data Analyst on DQLab and RevoU
-- 💞️ I’m looking to collaborate on Data Analyst projects
-- 📫 How to reach me by email to margianto.ramadhani@gmail.com
+# Margianto Ramadhani
+- Graduated from Gadjah Mada University (UGM) majored in Mechanical Engineering
+- Experienced as Planning Engineering in GMF AeroAsia
+- Currently learning of data science and data analyst on DQLab for 6 months
+- Upcoming activities is joining bootcamp of data analytics on RevoU for 6 months started january 2023
